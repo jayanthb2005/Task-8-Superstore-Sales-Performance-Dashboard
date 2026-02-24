@@ -2,6 +2,8 @@
 
 ## 📌 Objective
 Create a basic interactive dashboard showing sales performance by product, region, and month using Power BI.
+<img width="1309" height="620" alt="image" src="https://github.com/user-attachments/assets/ba08af8a-5e9d-429d-ac56-febae130a548" />
+
 
 ## 🛠 Tools Used
 - Power BI
