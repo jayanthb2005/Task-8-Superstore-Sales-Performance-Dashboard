@@ -1,11 +1,11 @@
-# Task 8 – Simple Sales Dashboard Design
+# Task 8 – Superstore Sales Performance Dashboard Design
 
 ## 📌 Objective
 Create a basic interactive dashboard showing sales performance by product, region, and month using Power BI.
 
 ## 🛠 Tools Used
 - Power BI
-- Superstore_Sales.csv dataset
+- superstore_sales.csv dataset
 
 ## 📊 Dashboard Includes
 - 📈 Line Chart – Sales Trend Over Time (Month-Year)
@@ -14,8 +14,8 @@ Create a basic interactive dashboard showing sales performance by product, regio
 - 🎛 Interactive Region Slicer
 
 ## 📁 Files Included
-- Dashboard Screenshot / PDF
-- Insights document (3–4 key observations)
+- Dashboard Screenshots
+- Insights text document (3–4 key observations)
 
 ## 🔍 Key Insights
 - Sales show an overall upward trend over time.
